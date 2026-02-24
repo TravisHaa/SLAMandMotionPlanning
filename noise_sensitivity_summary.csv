@@ -1,0 +1,7 @@
+config,mean_pose_error_m,final_pose_error_m,max_pose_error_m,mean_pose_uncertainty,final_pose_uncertainty,mean_avg_lm_unc,final_avg_lm_unc,final_n_landmarks
+Low R,0.3185,0.4378,0.5837,0.2158,0.2864,0.1986,0.0997,15
+Med R,0.3939,0.388,0.8358,0.3561,0.3832,0.2865,0.1448,15
+High R,0.4663,0.455,1.0221,0.5961,0.609,0.5036,0.3382,15
+Low Q,0.1238,0.1403,0.3364,0.218,0.2724,0.1127,0.0823,15
+Med Q,0.3939,0.388,0.8358,0.3561,0.3832,0.2865,0.1448,15
+High Q,1.0312,1.2038,1.8657,0.5677,0.6401,1.0187,0.3202,15
