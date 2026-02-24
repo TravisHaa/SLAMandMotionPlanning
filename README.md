@@ -1,6 +1,6 @@
 # CA3 Navigation — Added Files & Folders
 
-This document describes all files and directories that were added on top of the original starter code (`environment.py`, `motion_planning.py`, `test_PathPlanning.py`, `slam.py`, `test_EKF-SLAM.py`).
+This document describes all files and directories that were added on top of the original starter code (`environment.py`, `motion_planning.py`, `test_PathPlanning.py`, `slam.py`, `test_EKF-SLAM.py`). My main work is described in ca3.ipynb.
 
 ---
 
